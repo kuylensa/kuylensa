@@ -58,4 +58,8 @@ Icons provided by: [Icons8](https://icons8.com/icons)
 [twitter]: https://twitter.com/SamKuylen
 [youtube]: https://www.youtube.com/user/SamKuylen/
 [instagram]: https://instagram.com/samkuylen
+<<<<<<< HEAD
 [linkedin]: https://linkedin.com/in/samkuylen
+=======
+[linkedin]: https://linkedin.com/in/samkuylen
+>>>>>>> master
