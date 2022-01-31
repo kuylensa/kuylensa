@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on setting up my homelab
 - 🌱 I’m currently learning Ansible, Rancher, XCP-NG
-- 🥅 2020 Goals: Develop more on my homelab
+- 🥅 2022 Goals: Develop more on my homelab
 - 👯 I’m looking to collaborate on nothing at the moment. 🤣
 - 🤔 I’m looking for help with hardware passthrough in XCP-NG
 - ⚡ Fun fact: I love my dog and play boardgames
@@ -21,7 +21,6 @@
 
 ## Languages, Tools and OS
 
-<img align="left" alt="Visual Studio Code" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="Ansible" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
 <img align="left" alt="Homebrew (macOS)" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/homebrew/homebrew.png" />
 <img align="left" alt="Yaml" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" />
@@ -41,10 +40,10 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/kuylensa">
-    <img align="center" alt="kuylensa's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kuylensa&show_icons=true&hide_border=true&theme=nord" />
+    <img align="center" alt="kuylensa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kuylensa&show_icons=true&hide_border=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/kuylensa">
-    <img align="center" alt="kuylensa's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuylensa&show_icons=true&hide_border=true&theme=nord" />
+    <img align="center" alt="kuylensa's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuylensa&show_icons=true&hide_border=true&theme=gruvbox" />
 </a>
 
 <hr>
